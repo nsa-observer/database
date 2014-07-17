@@ -21,8 +21,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : [[AGILITY]] 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -235,8 +235,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -392,8 +392,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -612,7 +612,7 @@
 ""Tags"" : [[dni]] [[dnr]] [[phone]] 
 ""Compartments"" : [[TOP SECRET]] [[NOFORN]] [[FOUO]] [[FISA]] 
 ""Related items"" : [[PRISM]] [[FASCIA]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[ACRIDMINI]] [[LUTEUSICARUS]] [[HEADMOVIES]] [[APERTURESCIENCE]] [[CROSSEYEDSLOTH]] [[KOALAPUNCH]] [[BALLOONKNOT]] [[MAGNUMOPUS]] [[WAXTITAN]] [[WILDCOUGAR]] [[MURPHYSLAW]] [[DARKFIRE]] [[CHOCOLATESHIP]] [[SCREAMINGHARPY]] [[WILDCHOCOBO]] [[CHAOSOVERLORD]] [[SHAREDTAFFY]] [[POTBED]] [[DARKTHUNDER]] [[JEEPFLEA]] [[TROPICPUMA]] [[SHARPSHADOW]] [[HIGHCASTLE]] 
 ""Related items (Children)"" : 
 ""Status"" : active
 ""Links"" : 
@@ -910,8 +910,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -981,8 +981,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -1261,8 +1261,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -1431,8 +1431,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -1460,8 +1460,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : [[QUANTUM]] [[FOXACID]] [[TAO]] 
-""Related items (Parents)"" : [[TAO]] [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : [[TAO]] 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
@@ -2779,8 +2779,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -2823,8 +2823,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -3173,8 +3173,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -3305,8 +3305,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -3460,6 +3460,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://online.wsj.com/article/SB10001424127887324108204579022874091732470.html?mod=WSJEurope_hpp_LEFTTopStories | wsj.com - New Details Show Broader NSA Surveillance Reach]
+=== LOCKSTOCK ===
+""Short Description"" : An eight year/$51M Time & materiel contract with General Dynamics, located in Annapolis Junction, MD. for the support of the LOCKSTOCK collection system used by MYSTIC and RAM-M. Processes all MYSTIC data for other NSA accesses.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[NSA]]
+""Tags"" : 
+""Compartments"" : 
+""Related items"" : 
+""Related items (Parents)"" : [[MYSTIC]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/|The Intercept : Data Pirates of the Caribbean: The NSA Is Recording Every Cell Phone Call in the Bahamas]
 === LONGHAUL ===
 ""Short Description"" : 
 ""Category"" : program
@@ -3514,8 +3528,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -3525,7 +3539,7 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[dni]] [[Russia]] [[EU]] 
+""Tags"" : [[dni]] [[russia]] [[EU]] 
 ""Compartments"" : 
 ""Related items"" : [[STORMBREW]] [[PINWALE]] [[MARINA]] [[XKEYSCORE]] 
 ""Related items (Parents)"" : [[STORMBREW]] 
@@ -3574,8 +3588,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -3635,8 +3649,8 @@
 ""Tags"" : [[email]] [[dni]] [[webcam]] [[metadata]] [[VoIP]] 
 ""Compartments"" : [[TOP SECRET]] [[SI]] [[ORCON]] [[NOFORN]] 
 ""Related items"" : [[PRISM]] [[FALLOUT]] [[PINWALE]] [[MAINWAY]] 
-""Related items (Parents)"" : [[FALLOUT]] [[XKEYSCORE]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : [[FALLOUT]] 
+""Related items (Children)"" : [[XKEYSCORE]] 
 ""Status"" : unknown
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
@@ -3919,8 +3933,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -3993,7 +4007,7 @@
 ""Compartments"" : 
 ""Related items"" : [[SSO]] [[NUCLEON]] [[RETRO]] 
 ""Related items (Parents)"" : 
-""Related items (Children)"" : 
+""Related items (Children)"" : [[SOMALGET]] [[BASECOAT]] [[DUSKPALLET]] [[EVENINGEASEL]] [[LOCKSTOCK]] [[VENATOR]] 
 ""Status"" : active
 ""Links"" : 
 * [http://www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19_story.html|NSA surveillance program reaches ‘into the past’ to retrieve, replay phone calls]
@@ -4228,7 +4242,7 @@
 ""Compartments"" : 
 ""Related items"" : 
 ""Related items (Parents)"" : [[UPSTREAM]] 
-""Related items (Children)"" : 
+""Related items (Children)"" : [[MONKEYROCKET]] [[SHIFTINGSHADOW]] [[ORANGECRUSH]] [[YACHTSHOP]] [[ORANGEBLOSSOM]] [[SILVERZEPHYR]] [[BLUEZEPHIR]] [[COBALTFALCON]] 
 ""Status"" : active
 ""Links"" : 
 * [http://en.wikipedia.org/wiki/OAKSTAR|en.wikipedia.org - OAKSTAR]
@@ -4815,8 +4829,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -4902,7 +4916,7 @@
 ""Compartments"" : [[TOP SECRET]] [[SI]] [[ORCON]] [[NOFORN]] 
 ""Related items"" : [[TRAFFICTHIEF]] [[MARINA]] [[MAINWAY]] [[FALLOUT]] [[PINWALE]] [[CONVEYANCE]] [[NUCLEON]] [[UPSTREAM]] 
 ""Related items (Parents)"" : [[NSA]] 
-""Related items (Children)"" : [[BOUNDLESSINFORMANT]] [[CARBOY]] 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] [[CARBOY]] [[XKEYSCORE]] 
 ""Status"" : active
 ""Links"" : 
 * [http://en.wikipedia.org/wiki/PRISM_(surveillance_program)|en.wikipedia.org - Prism]
@@ -5023,7 +5037,7 @@
 ""Compartments"" : 
 ""Related items"" : 
 ""Related items (Parents)"" : 
-""Related items (Children)"" : [[QUANTUMINSERT]] [[QUANTUMBOT]] [[QUANTUMBOT2]] [[QUANTUMCOOKIE]] [[QUANTUMCOPPER]] [[QUANTUMDEFENSE]] [[QUANTUMDNS]] [[QUANTUMINSERT]] [[QUANTUMNATION]] [[QUANTUMSKY]] [[QUANTUMSPIM]] [[QUANTUMSQUEEL]] [[QUANTUMSQUIRREL]] [[QUANTUMTHEORY]] 
+""Related items (Children)"" : [[QUANTUMINSERT]] [[QUANTUMBOT]] [[QUANTUMBOT2]] [[QUANTUMCOOKIE]] [[QUANTUMCOPPER]] [[QUANTUMDEFENSE]] [[QUANTUMDNS]] [[QUANTUMINSERT]] [[QUANTUMNATION]] [[QUANTUMSKY]] [[QUANTUMSPIM]] [[QUANTUMSQUEEL]] [[QUANTUMSQUIRREL]] [[QUANTUMTHEORY]] [[QUANTUMPHANTOM]] [[QUANTUMHAND]] [[QUANTUMSMACKDOWN]] 
 ""Status"" : active
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html| media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum]
@@ -5094,7 +5108,7 @@
 * [https://www.schneier.com/blog/archives/2013/10/how_the_nsa_att.html|schneier.com - How the NSA Attacks Tor/Firefox Users With QUANTUM and FOXACID] by Bruce Schneier]
 * [http://cryptome.org/2013/12/nsa-quantum-tasking.pdf|cryptome.org - NSA QUANTUM tasking techniques]
 === QUANTUMCOPPER ===
-""Short Description"" : a.k.a the great firewall of earth (like the Great Firewall of China)
+""Short Description"" : File download/upload disruption and corruption, a.k.a the great firewall of earth (like the Great Firewall of China)
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : network
@@ -5108,6 +5122,7 @@
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2] The militarization of the Internet by Jacob Appelbaum]
 * [http://cryptome.org/2013/12/nsa-quantum-tasking.pdf|cryptome.org - NSA QUANTUM tasking techniques]
+* [http://cryptome.org/2014/03/nsa-more-than-one-way.pdf|There is more than one way to QUANTUM]
 === QUANTUMDEFENSE ===
 ""Short Description"" : spotted on [[QUANTUMTHEORY]]'s presentation.
 ""Category"" : program
@@ -5123,20 +5138,34 @@
 ""Links"" : 
 * [http://cryptome.org/2014/03/nsa-gchq-quantumtheory.pdf | 2010 sigint development conferences - nsa-gchq-quantumtheory.pdf]
 === QUANTUMDNS ===
-""Short Description"" : Fake Facebook server targeting specific individuals.
+""Short Description"" : DNS injection and/or redirection based off of A records queries.
 ""Category"" : program
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[dns]] 
 ""Compartments"" : 
-""Related items"" : 
-""Related items (Parents)"" : 
+""Related items"" : [[QUANTUM]] 
+""Related items (Parents)"" : [[QUANTUM]] 
 ""Related items (Children)"" : 
 ""Status"" : Activity from October 2010
 ""Links"" : 
 * [http://cryptome.org/2014/03/nsa-gchq-quantumtheory.pdf | 2010 sigint development conferences - nsa-gchq-quantumtheory.pdf]
 * [https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/ | How the NSA Plans to Infect ‘Millions’ of Computers with Malware - theguardian.com]
+=== QUANTUMHAND ===
+""Short Description"" : Exploits the computer of target who uses Facebook
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : attack
+""Agency"" : [[NSA]]
+""Tags"" : [[facebook]] 
+""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL USA]] [[FVEY]] 
+""Related items"" : [[QUANTUM]] 
+""Related items (Parents)"" : [[QUANTUM]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [http://cryptome.org/2014/03/nsa-more-than-one-way.pdf|There is more than one way to QUANTUM]
 === QUANTUMINSERT ===
 ""Short Description"" : It appears to be a method with which the person being targeted, without their knowledge, is redirected to websites that then plant malware on their computers that can then manipulate them. Some of the employees whose computers were infiltrated had "good access" to important parts of Belgacom's infrastructure, and this seemed to please the British spies, according to the slides.
 ""Category"" : attack vector
@@ -5147,7 +5176,7 @@
 ""Compartments"" : 
 ""Related items"" : [[QUANTUM]] [[FOXACID]] 
 ""Related items (Parents)"" : [[QUANTUM]] 
-""Related items (Children)"" : 
+""Related items (Children)"" : [[VALIDATOR]] [[QUANTUMBISCUIT]] 
 ""Status"" : attack vector
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
@@ -5170,14 +5199,28 @@
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
 * [https://www.schneier.com/blog/archives/2013/10/how_the_nsa_att.html|schneier.com - How the NSA Attacks Tor/Firefox Users With QUANTUM and FOXACID]
 * [http://cryptome.org/2013/12/nsa-quantum-tasking.pdf| cryptome.org - NSA QUANTUM tasking techniques]
+=== QUANTUMPHANTOM ===
+""Short Description"" : Hijacks any IP addresses on QUANTUMable passive coverage to use as covert infrastructure.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : attack
+""Agency"" : [[NSA]]
+""Tags"" : 
+""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL USA]] [[FVEY]] 
+""Related items"" : [[QUANTUM]] 
+""Related items (Parents)"" : [[QUANTUM]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [http://cryptome.org/2014/03/nsa-more-than-one-way.pdf|There is more than one way to QUANTUM]
 === QUANTUMSKY ===
-""Short Description"" : 
+""Short Description"" : Denies access to webpage by spoofing the target with TCP segment with RST flags set.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : network
 ""Agency"" : [[NSA]]
 ""Tags"" : 
-""Compartments"" : 
+""Compartments"" : [[TOP SECRET]] [[COMIN]] [[REL USA]] [[FVEY]] 
 ""Related items"" : [[QUANTUM]] [[FOXACID]] 
 ""Related items (Parents)"" : [[QUANTUM]] 
 ""Related items (Children)"" : 
@@ -5186,6 +5229,21 @@
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
 * [https://www.schneier.com/blog/archives/2013/10/how_the_nsa_att.html|schneier.com - How the NSA Attacks Tor/Firefox Users With QUANTUM and FOXACID]
 * [http://cryptome.org/2013/12/nsa-quantum-tasking.pdf| cryptome.org - NSA QUANTUM tasking techniques]
+* [http://cryptome.org/2014/03/nsa-more-than-one-way.pdf|There is more than one way to QUANTUM]
+=== QUANTUMSMACKDOWN ===
+""Short Description"" : Prevent targets from downloading implants to DoD computers while capturing malicious payload for analysis
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[NSA]]
+""Tags"" : 
+""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL USA]] [[FVEY]] 
+""Related items"" : [[QUANTUM]] 
+""Related items (Parents)"" : [[QUANTUM]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [http://cryptome.org/2014/03/nsa-more-than-one-way.pdf|There is more than one way to QUANTUM]
 === QUANTUMSPIM ===
 ""Short Description"" : Instant Messaging (MSN chat, XMPP), spotted on [[QUANTUMTHEORY]]'s presentation.
 ""Category"" : program
@@ -5229,7 +5287,7 @@
 ""Links"" : 
 * [http://cryptome.org/2014/03/nsa-gchq-quantumtheory.pdf |2010 sigint development conferences - nsa-gchq-quantumtheory.pdf]
 === QUANTUMTHEORY ===
-""Short Description"" : Extremely powerful CNE/CND/CNA network effects are enabled by integrating passive and active systems:
+""Short Description"" : Extremely powerful CNE/CND/CNA network effects are enabled by integrating passive and active systems. QUANTUMTHEORY has a huge set of exploits including first stage exploits which die 30 days after the implantation.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : network
@@ -5514,11 +5572,11 @@
 ""Tags"" : [[email]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[REL TO AUS]] [[REL TO CAN]] [[REL TO GBR]] [[REL TO NZL]] 
 ""Related items"" : 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[XKEYSCORE]] 
 ""Related items (Children)"" : 
 ""Status"" : active
 ""Links"" : 
-* [http://cryptome.org/2013/11/gchq-royal-concierge.jpg|crpytome.org on ROYAL CONCIERGE]
+* [http://cryptome.org/2013/11/gchq-royal-concierge.jpg|cryptome.org on ROYAL CONCIERGE]
 === S2C42 ===
 ""Short Description"" : A program for spying on Brazilian President Dilma Rousseff and her key advisers. The results are text messages from her and her key advisers.
 ""Category"" : program
@@ -5627,8 +5685,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -5769,8 +5827,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -5826,8 +5884,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -6817,8 +6875,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -7066,7 +7124,7 @@
 ""Compartments"" : 
 ""Related items"" : 
 ""Related items (Parents)"" : [[NSA]] 
-""Related items (Children)"" : [[FAIRVIEW]] [[BLARNEY]] [[STORMBREW]] [[OAKSTAR]] [[PRISM]] 
+""Related items (Children)"" : [[FAIRVIEW]] [[BLARNEY]] [[STORMBREW]] [[OAKSTAR]] [[PRISM]] [[XKEYSCORE]] 
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.wired.com/science/discoveries/news/2006/05/70908|Wired.com - AT&T Whistle-Blower's Evidence]
@@ -7193,8 +7251,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -7249,8 +7307,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -7291,8 +7349,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -7305,8 +7363,8 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[BOUNDLESSINFORMANT]] 
-""Related items (Children)"" : 
+""Related items (Parents)"" : 
+""Related items (Children)"" : [[BOUNDLESSINFORMANT]] 
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
@@ -7435,9 +7493,9 @@
 ""Agency"" : [[NSA]] [[GCHQ]]
 ""Tags"" : [[protocols]] [[vpn]] [[phone]] [[gsm]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] [[REL TO AUS]] [[REL TO CAN]] [[REL TO GBR]] [[REL TO NZL]] 
-""Related items"" : [[MARINA]] [[TAO]] [[FORNSAT]] [[SSO]] [[F6]] [[FISA]] 
-""Related items (Parents)"" : [[NSA]] 
-""Related items (Children)"" : [[THIEVING MAGPIE]] 
+""Related items"" : [[TAO]] [[FORNSAT]] [[SSO]] [[F6]] [[FISA]] 
+""Related items (Parents)"" : [[UPSTREAM]] [[PRISM]] [[MARINA]] 
+""Related items (Children)"" : [[THIEVINGMAGPIE]] [[ROYALCONCIERGE]] 
 ""Status"" : unknown
 ""Links"" : 
 * [https://www.schneier.com/blog/archives/2013/08/xkeyscore.html|schneier.com - XKeyscore]
@@ -7508,5 +7566,4 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
-
 
