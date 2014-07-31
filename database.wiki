@@ -69,6 +69,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/08/nsa-x-keyscore-family.htm|cryptome.org - NSA X-Keyscore Member of Cyberespionage Family]
+=== AIRBAG ===
+""Short Description"" : [[JTRIG]] laptop capability for field operations
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === AIRGAP/COZEN ===
 ""Short Description"" : 
 ""Category"" : program
@@ -83,6 +97,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/08/nsa-x-keyscore-family.htm|cryptome.org - NSA X-Keyscore Member of Cyberespionage Family]
+=== AIRWOLF ===
+""Short Description"" : YouTube profile, comment and video collection.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[youtube]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ALAMITO ===
 ""Short Description"" : spotted on the Glenn Greenwald's No Place To Hide document.
 ""Category"" : mission
@@ -97,6 +125,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== ALLIUMARCH ===
+""Short Description"" : [[JTRIG]] UIA via the tor network
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[tor]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ALPHA ===
 ""Short Description"" : Exchange designator for UK's Government Communications Headquarters ([[GCHQ]]). Used during sharing of intercepted civilian communications.
 ""Category"" : five eyes
@@ -153,6 +195,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/09/nsa-bullrun-2-16-guardian-13-0905.pdf|cryptome.org/guardian - PROJECT BULLRUN ]
+=== ANCESTRY ===
+""Short Description"" : tool for discovering the creation date of Yahoo selectors
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[yahoo]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ANCHORY ===
 ""Short Description"" : NSA software system which provides web access to textual intelligence documents / Main repository of finished NSA SIGINT reports going back three years from agencies like [[NSA]], [[CIA]], [[DIA]], State and Foreign Broadcast Information Systems like [[Reuters]] News Service, Cryptologic Intelligence Reports.
 ""Category"" : program
@@ -184,6 +240,20 @@
 ""Links"" : 
 * [http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969-2.html|spiegel.de - Inside TAO: Documents Reveal Top NSA Hacking Unit]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== ANGRYPIRATE ===
+""Short Description"" : is a tool that will permanently disable a target's account on their computer.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ANTICRISISGIRL ===
 ""Short Description"" : targeted website monitoring using passive . Customised Piwik installation, and is integrated into GTEs passive capabilities
 ""Category"" : program
@@ -282,6 +352,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== ARSONSAM ===
+""Short Description"" : is a tool to test the effect of certain types of PDU SMS messages on phones / network. Also includes PDU SMS Sumb Fuzz testing.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[sms]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ARTEMIS ===
 ""Short Description"" : An undetermined program for Geospatial analysis
 ""Category"" : program
@@ -340,6 +424,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.theatlantic.com/technology/archive/2013/08/an-educated-guess-about-how-the-nsa-is-structured/278697/|theatlantic.com - An Educated Guess About How the NSA Is Structured]
+=== ASTRALPROJECTION ===
+""Short Description"" : Remote GSM secure covert internet proxy using TOR hidden services.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[gsm]] [[tor]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === AUNTIE ===
 ""Short Description"" : An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents.
 ""Category"" : compartment
@@ -368,6 +466,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/08/nsa-x-keyscore-family.htm|cryptome.org -NSA X-Keyscore Member of Cyberespionage Family]
+=== AXLEGREASE ===
+""Short Description"" : The covert banking link for CPG
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BABYLON ===
+""Short Description"" : is a tool that bulk quieries web mail addresses and verifies ether they can be signed up for. A green tick indicates that is currently in use. Verification can currently be done for Hotmail and Yahoo.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[email]] [[hotmail]] [[yahoo]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BACONRIDGE ===
 ""Short Description"" : Installation of [[TAO]] in St. Antonio, TX. 270 personnel, 210 workstations.
 ""Category"" : compartment
@@ -383,6 +509,20 @@
 ""Links"" : 
 * [http://www.spiegel.de/fotostrecke/nsa-dokumente-die-abteilung-tao-der-nsa-fotostrecke-105355-14.html|Der Spiegel - Geheimdokumente: Die Spezialabteilung [[TAO]] der NSA stellt sich vor]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== BADGER ===
+""Short Description"" : mass delivery of email messaging to support an information operations campaign.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[email]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BALLOONKNOT ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 / 200 pages)
 ""Category"" : program
@@ -453,6 +593,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://www.schneier.com/blog/archives/2013/10/the_nsas_new_ri.html|schneier.com - The NSA's New Risk Analysis]
+=== BEARSCRAPE ===
+""Short Description"" : can extract WiFi connection history (MAC and timing) when supplied with a copy of the registry structure or run on the box
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[wifi]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BEARTRAP ===
+""Short Description"" : Bulk retrieval of public Bebo profiles from member or group ID
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[bebo]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BELLTOPPER ===
 ""Short Description"" : NSA software system like [[ANCHORY]] but without dividing data into database groups. [[BELLTOPPER]] place data into one database.
 ""Category"" : program
@@ -467,6 +635,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://muckrock.s3.amazonaws.com/foia_files/7-17-13_MR6022RES.pdf|muckrock.com - 7-17-13_MR6022RES.pdf]
+=== BERRYTWISTER ===
+""Short Description"" : A sub-system of [[FRUITBOWL]]
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[FRUITBOWL]] 
+""Related items (Parents)"" : [[FRUITBOWL]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BERRYTWISTER+ ===
+""Short Description"" : A sub-system of [[FRUITBOWL]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[FRUITBOWL]] 
+""Related items (Parents)"" : [[JTRIG]] [[FRUITBOWL]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BINOCULAR ===
 ""Short Description"" : [[BINOCULAR]] is an integrated NSA signals intelligence source data broadcast service system, integrating nine separate Ultra High Frequency (UHF) transmissions, transmitted through the Global Broadcast System satellite network.
 ""Category"" : program
@@ -481,6 +677,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://www.fas.org/irp/program/disseminate/binocular.htm|fas.org - BINOCULAR ]
+=== BIRDSONG ===
+""Short Description"" : Automated posting of twitter updates
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[twitter]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[SYLVESTER]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BIRDSTRIKE ===
+""Short Description"" : Twitter monitoring and profile collection
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BLACKFOOT ===
 ""Short Description"" : coverterm to the bugging of French mission to the United Nations in New York
 ""Category"" : mission
@@ -603,6 +827,49 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://en.wikipedia.org/wiki/OAKSTAR| en.wikipedia.org - OAKSTAR]
+=== BOMBAYROLL ===
+""Short Description"" : [[JTRIG]]'s legacy UIA standalone capability
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BOMBBAY ===
+""Short Description"" : is the capabilty to increase website hits/rankings.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[website]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BOTANICREALTY ===
+""Short Description"" : Collaboration between TEC and MSOC System Development and Signals Development Lab. It's a solution to collect a video network. The video is unencrypted and, for a period of two months, encrypted. In the first hours on run, over 1000 collects, totalling hundreds of hours of video, have been made.
+""Category"" : program
+""Alias"" : [[UNCANNY]] 
+""Family"" : collect
+""Agency"" : [[NSA]]
+""Tags"" : [[video]] 
+""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
+""Related items"" : [[LADYLOVE]] [[HIGHPRIDE]] 
+""Related items (Parents)"" : 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|Compiled documents by Cryptome of Der Spiegel documents]
+* [http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html|Non-compiled documents from Der Spiegel]
 === BOUNDLESSINFORMANT ===
 ""Short Description"" : BOUNDLESSINFORMANT is a big data analysis and data visualization system used by the NSA to give managers summaries of the NSA's world wide data collection activities. According to a Top Secret heat map display also published by The Guardian and produced by the Boundless Informant program, almost 3 billion data elements from inside the United States were captured by the NSA over a 30-day period ending in March 2013.Data analyzed by BOUNDLESSINFORMANT includes electronic surveillance program records ([[dni]]) and telephone call metadata records ([[dnr]]) stored in an NSA data archive called [[GM-PLACE]]. It does not include FISA data, according to the FAQ memo. [[PRISM]] ([[US-984XN]]), which was revealed at the same time as BOUNDLESSINFORMANT, is one source of DNR data. According to the map, BOUNDLESSINFORMANT summarizes data records from 504 separate [[dnr]] and [[dnr]] collection sources (SIGADs). In the map, countries that are under surveillance are assigned a color from green, representing least coverage to red, most intensive.
 ""Category"" : program
@@ -620,6 +887,20 @@
 * [http://www.theguardian.com/world/2013/jun/08/nsa-boundless-informant-global-datamining|The Guardian - Boundless Informant: the NSA's secret tool to track global surveillance data]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== BRANDYSNAP ===
+""Short Description"" : [[JTRIG]] UIA contingency at Scarborough
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknow
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BRUNEAU ===
 ""Short Description"" : Name of an operation to bug the italian UN mission, introducing spywares in foreign embassies.
 ""Category"" : mission
@@ -663,16 +944,30 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== BUGSY ===
+""Short Description"" : Google+ collection (circles, profiles, etc.)
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BULLDOZER ===
 ""Short Description"" : PCI bus malicious hardware, installed via [[INTERDICTION]], possibly connected to a Wi-Fi card or a subverted router and collect metadata and content from targeted systems.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[pci]] 
+""Tags"" : [[pci]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[INTERDICTION]] 
+""Related items (Parents)"" : [[INTERDICTION]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -688,7 +983,7 @@
 ""Tags"" : 
 ""Compartments"" : [[TOP SECRET]] [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[APERIODIC]] [[AMBULANT]] [[AUNTIE]] [[PAINTEDEAGLE]] [[PAWLEYS]] [[PITCHFORD]] [[PENDLETON]] [[PICARESQUE]] [[PIEDMONT]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[OSCAR]] 
 ""Related items (Children)"" : [[APERIODIC]] [[AMBULANT]] [[AUNTIE]] [[PAINTEDEAGLE]] [[PAWLEYS]] [[PITCHFORD]] [[PENDLETON]] [[PICARESQUE]] [[PIEDMONT]] 
 ""Status"" : unknown
 ""Links"" : 
@@ -712,6 +1007,62 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.fas.org/irp/program/collect/classic_bullseye.htm | fas.org - AN/FRD-10 CLASSIC BULLSEYE]
+=== BUMBLEBEEDANCE ===
+""Short Description"" : [[JTRIG]] operational VM / Tor architecture
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[tor]] [[vm]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BUMPERCAR+ ===
+""Short Description"" : is an automated system developped by [[JTRIG]] CITD to support [[BUMPERCAR]] operations. [[BUMPERCAR]] operations are used to disrupt and deny Internet-based terror videos or other material. The technique employs the services provided by upload providers to report offensive materials.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[video]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BURLESQUE ===
+""Short Description"" : is the capabilty to send spoofed SMS text messages.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[sms]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== BYSTANDER ===
+""Short Description"" : is a categorisation database accessed via web service
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === BYZANTINEANCHOR ===
 ""Short Description"" : BA, a subset of [[BYZANTINEHADES]], refers to a group of associated computer network intrusions with an apparent nexus to China.je n (Source : Cablegate)
 ""Category"" : program
@@ -775,10 +1126,10 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[sms]] [[windows]] [[os]] [[gsm]] [[phone]] 
+""Tags"" : [[gsm]] [[sms]] [[windows]] [[os]] [[gsm]] [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[DRTBOX]] [[STINGRAY]] [[NEBULA]] [[CYCLONE]] [[TYPHON]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -885,6 +1236,34 @@
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [https://www.youtube.com/watch?v=R8QFPf2RMCQ|LeakSourceNews - Jacob Appelbaum: NSA's FoxAcid/Quantum Programs at the european parliament - 10/15/2013]
+=== CERBERUS ===
+""Short Description"" : [[JTRIG]]'s legacy UIA desktop, soon to be replaced with [[FORESTWARRIOR]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[FORESTWARRIOR]] [[CERBERUSSTATISTICSCOLLECTION]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : [[CERBERUSSTATISTICSCOLLECTION]] 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== CERBERUSSTATISTICSCOLLECTION ===
+""Short Description"" : collect on-going usage information about how many users utilise [[JTRIG]]'s UIA capability, what sites are the most frequently visited etc. This is in order to provide [[JTRIG]] infrastructure and ITServices management information statistics.
+""Category"" : program
+""Alias"" : [[CERBERUS STATISTICS COLLECTION]] 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[CERBERUS]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CHALKFUN ===
 ""Short Description"" : Analytic tool, used to search the [[FASCIA]] database
 ""Category"" : program
@@ -901,6 +1280,20 @@
 * [http://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html|washingtonpost.com- NSA tracking cellphone locations worldwide, Snowden documents show]
 * [http://www.wikileaks-forum.com/nsa/332/snowden-leak-chalkfun-fascia-and-nsa-targeted-device-location-verification/25826/|wikileaks-forum.com - CHALKFUN and FASCIA Documents- Snowden Leak: CHALKFUN - FASCIA and NSA Targeted Device Location Verification]
 * [http://apps.washingtonpost.com/g/page/national/nsa-report-on-privacy-violations-in-the-first-quarter-of-2012/395/|apps.washingtonpost.com - NSA report on privacy violations in the first quarter of 2012]
+=== CHANGELING ===
+""Short Description"" : Ability to spoof any email address and send email under that identity
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[email]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CHAOSOVERLORD ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 33 / 200 pages)
 ""Category"" : program
@@ -958,6 +1351,20 @@
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [http://www.spiegel.de/static/happ/netzwelt/2014/na/v1/pub/img/Handy/S3222_DROPOUTJEEP.jpg| spiegel - Slide on DROPOUTJEEP]
+=== CHINESEFIRECRACKER ===
+""Short Description"" : Overt brute login attemps against online forums
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[forum]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CHIPPEWA ===
 ""Short Description"" : CHIPPEWA seems to be a communication network
 ""Category"" : program
@@ -1014,6 +1421,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/08/nsa-x-keyscore-family.htm | NSA X-Keyscore Member of Cyberespionage Family]
+=== CLEANSWEEP ===
+""Short Description"" : Masquerade Facebook Wall posts for individuals or entire coutries.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[facebook]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== CLUMSYBEEKEEPER ===
+""Short Description"" : Some work in progress to investigate IRC effects
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[irc]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === COASTLINE ===
 ""Short Description"" : reporting tool to receive and report on near real-time intelligence for forward deployed troops
 ""Category"" : program
@@ -1058,6 +1493,34 @@
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2: The militarization of the Internet by Jacob Appelbaum.]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== CONCRETEDONKEY ===
+""Short Description"" : is the capability to scatter an audio message to a large number of telephones, or repeatedly bomb a target number withe the same message
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[phone]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== CONDUIT ===
+""Short Description"" : is a database of C2C identifiers for Intelligence Community assets acting online, either under alias or in real name
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CONJECTURE ===
 ""Short Description"" : A RF communication protocol used by [[HOWLERMONKEY]] devices.
 ""Category"" : program
@@ -1072,6 +1535,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== CONNONBALL ===
+""Short Description"" : is the capabilty to send repeated text messages to a single target.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[gsm]] [[sms]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CONTRAOCTAVE ===
 ""Short Description"" : Collection mission tasking tool
 ""Category"" : program
@@ -1165,10 +1642,10 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[usb]] 
+""Tags"" : [[usb]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : [[CHIMNEYPOOL]] [[STRAITBIZARRE]] 
-""Related items (Parents)"" : [[CHIMNEYPOOL]] 
+""Related items (Parents)"" : [[CHIMNEYPOOL]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -1182,10 +1659,10 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[usb]] 
+""Tags"" : [[usb]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : [[CHIMNEYPOOL]] [[STRAITBIZARRE]] 
-""Related items (Parents)"" : [[CHIMNEYPOOL]] 
+""Related items (Parents)"" : [[CHIMNEYPOOL]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -1198,16 +1675,30 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[ethernet]] [[usb]] 
+""Tags"" : [[ethernet]] [[usb]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[TRINITY]] [[HOWLERMONKEY]] [[SPECULATION]] [[CHIMNEYPOOL]] [[STRAITBIZARRE]] 
-""Related items (Parents)"" : [[CHIMNEYPOOL]] 
+""Related items (Parents)"" : [[CHIMNEYPOOL]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2 - The militarization of the Internet by Jacob Appelbaum.]
 * [http://cryptome.org/2013/12/nsa-catalog-appelbaum.pdf|cryptome.org - NSA's catalog]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== COUNTRYFILE ===
+""Short Description"" : A sub-system of [[JAZZFUSION]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[JAZZFUSION]] 
+""Related items (Parents)"" : [[JTRIG]] [[JAZZFUSION]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CREST ===
 ""Short Description"" : Database that automatically translates foreign language intercepts in English
 ""Category"" : program
@@ -1242,10 +1733,10 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[phone]] 
+""Tags"" : [[gsm]] [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[WAGONBED]] [[CHIMNEYPOOL]] [[ROCKYKNOB]] 
-""Related items (Parents)"" : [[ROC]] 
+""Related items (Parents)"" : [[ROC]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : Active
 ""Links"" : 
@@ -1280,6 +1771,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== CRYOSTAT ===
+""Short Description"" : is a [[JTRIG]] tool that runs against data held in [[NEWPIN]]. It then displays this data in a chart to show links between target.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[NEWPIN]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CRYPTOENABLED ===
 ""Short Description"" : collection derived from AO's efforts to enable crypto.
 ""Category"" : program
@@ -1301,10 +1806,10 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[cw]] 
+""Tags"" : [[cw]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[VAGRANT]] [[DROPMIRE]] [[PHOTOANGLO]] 
-""Related items (Parents)"" : [[ANGRYNEIGHBOR]] 
+""Related items (Parents)"" : [[ANGRYNEIGHBOR]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : inactive
 ""Links"" : 
@@ -1361,13 +1866,27 @@
 * [http://emrstop.org/index.php?option=com_content&view=article&id=118:they-have-known-about-microwave-radiation-harm-for-decades&catid=31:emf-politics-a-research-analyses&Itemid=40| ermstop.org - They have known about microwave radiation harm for decades]
 * [http://www.scribd.com/doc/13616226/The-Moscow-Embassy-incident| scribd.com - The Moscow Embassy incident]
 * [http://www.wikileaks.org/plusd/cables/1976MOSCOW01437_b.html#efmAtaAwK| wikileaks.org - MOSCOW SIGNAL - APPROACH TO GROMYKO]
+=== CYBERCOMMANDCONSOLE ===
+""Short Description"" : A centralised suite of tools, statistics and viewers for tracking current operations across the Cyber community
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === CYCLONE ===
 ""Short Description"" : EGSM base station router, used for collection GSM cell phone signals. Shops with laptop and accessories for command and control, uses the same GUI as the [[TYPHON]]. Controllable via 802.11 wifi.
 ""Category"" : program
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[phone]] 
+""Tags"" : [[gsm]] [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[TYPHON]] [[CANDYGRAM]] [[DRTBOX]] [[NEBULA]] 
 ""Related items (Parents)"" : 
@@ -1376,6 +1895,20 @@
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [http://nsa.gov1.info/dni/nsa-ant-catalog|nsa.gov1.info/dni/nsa-ant-catalog]
+=== DANCINGBEAR ===
+""Short Description"" : Obtains the location of wifi access points
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[wifi]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DANCINGOASIS ===
 ""Short Description"" : [[SSO]] collection program, Location information. SIGAD pour [[FASCIA]]
 ""Category"" : program
@@ -1466,13 +1999,41 @@
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== DEADPOOL ===
+""Short Description"" : URL shortening service
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== DEERSTALKER ===
+""Short Description"" : Ability to aid-geolocation of Sat Phones / GSM phones via a silent calling to the phone.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[geolocation]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DEITYBOUNCE ===
 ""Short Description"" : DEITYBOUNCE provides software application persistence on Dell PowerEdge servers by exploiting the motherboard BIOS and utilizing System Management Mode (SMM) to gain periodic execution while the Operating System loads. This technique supports multi-processor systems with RAID hardware and Microsoft Windows 2000, 2003, and XP. It currently targets Dell PowerEdge 1850/2850/1950/2950 RAID servers, using BIOS versions A02, A05, A06, 1.1.0, 1.2.0, or 1.3.7. Through remote access or [[INTERDICTION]], [[ARKSTREAM]] is used to reflash the BIOS on a target machine to implant DEITYBOUNCE and its payload (the implant installer).Can be installed by non-technical user with USB thumb drive. Once implanted, DEITYBOUNCE's frequency of execution (dropping the payload) is configurable and will occur when the target machine powers on.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[usb]] [[windows]] [[bios]] [[os]] 
+""Tags"" : [[usb]] [[windows]] [[bios]] [[os]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[ARKSTREAM]] [[INTERDICTION]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -1484,6 +2045,20 @@
 * [https://www.schneier.com/blog/archives/2013/12/more_about_the.html|schneier.com - More about the NSA's Tailored Access Operations Unit]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [http://www.digitaltrends.com/web/nsa-malware-code-names/#/8||TURBOPANDA, RAGEMASTER, and 13 other NSA codenames that prove spies laugh, too]
+=== DEVILSHANDSHAKE ===
+""Short Description"" : ECI data technique
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DEWSWEEPER ===
 ""Short Description"" : USB (Universal Serial Bus) hardware host tap that provides [[COVERT]] link over US link into a target network. Operates w/RF relay subsystem to provide wireless Bridge into target network.
 ""Category"" : attack vector
@@ -1499,6 +2074,20 @@
 ""Links"" : 
 * [http://www.documentcloud.org/documents/807030-ambassade.html#document/p1|LeMonde.fr - Snowden's docs]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== DIALD ===
+""Short Description"" : External internal redial and monitor daemon
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DIKTER ===
 ""Short Description"" : SIGINT Exchange Designator for Norway. See also ALPHA
 ""Category"" : program
@@ -1513,6 +2102,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== DIRTYEVIL ===
+""Short Description"" : [[JTRIG]]'s research network
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DISCOROUTE ===
 ""Short Description"" : designed to suck up and database router configuration files seen in passively collected telnet sessions
 ""Category"" : program
@@ -1629,6 +2232,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm | cryptome.org - NSA codenames]
+=== DOGHANDLER ===
+""Short Description"" : [[JTRIG]]'s development network
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DRAGGABLEKITTEN ===
 ""Short Description"" : 
 ""Category"" : program
@@ -1643,6 +2260,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://firstlook.org/theintercept/document/2014/03/12/menwith-hill-station-leverages-xkeyscore-quantum-yahoo-hotmail/|Menwith Hill Station Leverages XKeyscore for Quantum Against Yahoo and Hotmail]
+=== DRAGON'SSHOUT ===
+""Short Description"" : paltalk group chat collection
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[paltalk]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === DRAGONFLY ===
 ""Short Description"" : Password-authenticated key exchange (pake) protocol, suspected of containing an NSA backdoor. It has been proposed to Crypto Forum Research Group (CFRG), which helps the Internet Engineering Task Force (IETF) review the applicability and uses of cryptographic mechanisms, and give crypto advice to the organization's various Working Groups.
 ""Category"" : attack vector
@@ -1672,7 +2303,7 @@
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
-* [http://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-birds-personal-data|Angry  Birds and 'leaky' phone apps targeted by NSA and GCHQ for user data]
+* [http://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-birds-personal-data|Angry Birds and 'leaky' phone apps targeted by NSA and GCHQ for user data]
 === DROPMIRE ===
 ""Short Description"" : Passive collection of emanations using antenna. (Using bugging encrypted fax machine (The Guardian)) [[DROPMIRE]] aimed at surveillance of foreign embassies and diplomatic staff, including those of NATO allies. NSA leaks show how US is bugging its European allies. The report reveals that at least "38 foreign embassies" were under surveillance, some of which as far back as 2007.
 ""Category"" : program
@@ -1697,7 +2328,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[sms]] [[geolocation]] [[phone]] 
+""Tags"" : [[sms]] [[geolocation]] [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[STRAITBIZARRE]] [[CHIMNEYPOOL]] [[TURBULENCE]] [[FREEFLOW]] 
 ""Related items (Parents)"" : [[STRAITBIZARRE]] [[CHIMNEYPOOL]] 
@@ -1858,6 +2489,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== ELATE ===
+""Short Description"" : is a suite tools for monitoring target use of the UK auctions eBay,. These tools are hosted on an internet server, and results are retreived by encrypted email.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[ebay]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ELEGANTCHAOS ===
 ""Short Description"" : Analysis of datas. spotted on the Glenn Greenwald's No Place To Hide document.
 ""Category"" : program
@@ -1892,7 +2537,7 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[wifi]] [[ethernet]] [[gsm]] 
+""Tags"" : [[wifi]] [[ethernet]] [[gsm]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[HOLLOWPOINT]] 
 ""Related items (Parents)"" : 
@@ -1987,6 +2632,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html| media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
+=== EXCALIBUR ===
+""Short Description"" : acquires a Paltalk UID and/org email adress from a Screen Name
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[paltalk]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== EXPOW ===
+""Short Description"" : [[GCHQ]]'s UIA capability provided by [[JTRIG]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === FA ===
 ""Short Description"" : CNE (hacking) technique used against Tor users
 ""Category"" : attack vector
@@ -2094,13 +2767,27 @@
 * [https://www.schneier.com/blog/archives/2013/07/more_nsa_codena.html | More NSA Code Names]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== FATYAK ===
+""Short Description"" : public data collection from linkedin
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[linkedin]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === FEEDTROUGH ===
 ""Short Description"" : FEEDTROUGH is a persistence technique for two software implants, DNT's [[BANANAGLEE]] and CES's [[ZESTYLEAK]] used against Juniper Netscreen firewalls. FEEDTROUGH can be used to persist two implants, [[ZESTYLEAK]] and/or [[BANANAGLEE]] across reboots and software upgrades on known and covered OS's for the following Netscreen firewalls, ns5xt, ns25, ns50, ns200, ns500 and ISG 1000. There is no direct communication to or from FEEDTROUGH, but if present, the [[BANANAGLEE]] implant can receive and transmit covert channel comms, and for certain platforms, [[BANANAGLEE]] can also update FEEDTROUGH. FEEDTROUGH however can only persist OS's included in its databases. Therefore this is best employed with known OS's and if a new OS comes out, then the customer would need to add this OS to the FEEDTROUGH database for that particular firewall.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[juniper]] 
+""Tags"" : [[router]] [[juniper]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[BANANAGLEE]] [[ZESTYLEAK]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -2158,10 +2845,10 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[ethernet]] 
+""Tags"" : [[ethernet]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[HOWLERMONKEY]] [[DANDERSPRITZ]] [[TRINITY]] [[RADON]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -2240,13 +2927,27 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/ | How the NSA Plans to Infect ‘Millions’ of Computers with Malware - theguardian.com]
+=== FORESTWARRIOR ===
+""Short Description"" : Desktop replacement for [[CERBERUS]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[SPICEISLAND]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === FOXACID ===
 ""Short Description"" : FOXACID identifies TOR users on the Internet and then executes an attack against their Firefox web browser.
 ""Category"" : program
 ""Alias"" : 
 ""Family"" : target
 ""Agency"" : [[NSA]]
-""Tags"" : [[tor]] 
+""Tags"" : [[tor]] [[tao]] 
 ""Compartments"" : 
 ""Related items"" : 
 ""Related items (Parents)"" : [[TAO]] 
@@ -2358,6 +3059,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== FRUITBOWL ===
+""Short Description"" : [[CERBERUS]] UIA replacement and new tools infrastructure - Primary domain for generic user/tools access and Tor split into 3 sub-systems
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[tor]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[SPICEISLAND]] 
+""Related items (Children)"" : [[NUTALLERGY]] [[BERRYTWISTER]] 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === FUNNELOUT ===
 ""Short Description"" : mentioned in context of tor exploitation
 ""Category"" : program
@@ -2372,6 +3087,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== FUSEWIRE ===
+""Short Description"" : Provides 24/7 monitoring of Vbulliten forums for target postings/online activity. Also allows staggered postings to be made
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[vbulliten]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GALAXY ===
 ""Short Description"" : Find/fix/finish program of locating signal-emitting devices of targets
 ""Category"" : program
@@ -2386,6 +3115,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== GAMBIT ===
+""Short Description"" : Deployable pocket-sized proxy server.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GAMUT ===
 ""Short Description"" : 
 ""Category"" : program
@@ -2413,6 +3156,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://nsa.gov1.info/dni/ | nsa.gov1.info/dni/]
+=== GATEWAY ===
+""Short Description"" : Ability to artificially increase traffic to a website
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GECKO-II ===
 ""Short Description"" : [[IRONCHEF]] example included A hardware implant (MRRF or GSM), IRONCHEF persistence backdoor, “Software implant [[UNITEDRAKE]] Node”
 ""Category"" : process
@@ -2433,10 +3190,10 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] 
+""Tags"" : [[gsm]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -2487,6 +3244,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== GESTATOR ===
+""Short Description"" : Amplification of a given mesage, normally video, on popular multimedia websites, like Youtube.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[video]] [[youtube]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GHOSTMACHINE ===
 ""Short Description"" : [[GHOSTMACHINE]] is the NSA's [[SSO]] (Special Source Operations) cloud analytics platform.
 ""Category"" : program
@@ -2534,6 +3305,34 @@
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
 * [http://nsa.gov1.info/dni/nsa-ant-catalog|nsa.gov1.info/dni/nsa-ant-catalog]
+=== GLASSBACK ===
+""Short Description"" : Technique of getting IP adress by pretending to be a spammer and ringing them Target does not need to answer.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== GLITTERBALL ===
+""Short Description"" : Online Gaming Capabilities for Sensitives Operations. Currently Second Life.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[second life]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GM-PLACE ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 / 200 pages)
 ""Category"" : program
@@ -2548,6 +3347,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== GODFATHER ===
+""Short Description"" : public data collection from facebook
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[facebook]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GODSURGE ===
 ""Short Description"" : runs on the [[FLUXBABBIT]] hardware implant and provides software application persistence on Dell PowerEdge servers by exploiting the JTAG debugging interface of the server's processors.
 ""Category"" : attack vector
@@ -2564,16 +3377,30 @@
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de - To Protect And Infect Part 2]
 * [http://cryptome.org/2013/12/nsa-catalog-appelbaum.pdf|cryptome.org -NSA's catalog]
 * [http://www.theregister.co.uk/2013/12/31/nsa_weapons_catalogue_promises_pwnage_at_the_speed_of_light/?page=2|TheRegister - How the NSA hacks PCs, phones, routers, hard disks 'at speed of light': Spy tech catalog leaks]
+=== GOODFELLA ===
+""Short Description"" : generic framework for public data collection from online social networks.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[social network]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === GOPHERSET ===
 ""Short Description"" : Malware for GSM Phase 2+ SIM cards that use the SIM Toolkit (STK). Exfiltrates phonebook, SMS, and call logs, via SMS, to a predefined phone number. Installed either via a USB sim card reader, or remotely (over the air provisioning)
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[usb]] [[sms]] [[phone]] 
+""Tags"" : [[gsm]] [[usb]] [[sms]] [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -2585,7 +3412,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[juniper]] 
+""Tags"" : [[router]] [[juniper]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[BANANAGLEE]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -2666,16 +3493,44 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/ | How the NSA Plans to Infect ‘Millions’ of Computers with Malware - theguardian.com]
+=== GURKHASSWORD ===
+""Short Description"" : Beaconed Microsoft Office Documents to elicite a targets IP address
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[microsoft]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== HACIENDA ===
+""Short Description"" : is a port scanning tool designed to scan an entire country or city. It uses [[GEOFUSION]] to identify IP locations. Banners and content are pulled back on certains ports. Content is put into the [[EARTHLING]] database, and all other scanned data is sent to GNE and is available through [[GLOBALSURGE]] and fleximart.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[GLOBALSURGE]] [[EARTHLING]] [[GEOFUSION]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : [[EARTHLING]] 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === HALLUXWATER ===
-""Short Description"" : The [[HALLUXWATER]] Persistence Back Door implant is installed on a target Huawei Eudemon firewall as a boot ROM upgrade. When the target reboots, the PBD installer software will find the needed patch points and install the back door in the inbound packet processing routine.
+""Short Description"" : Persistent Back Door implant installed on a target Huawei Eudemon firewall as a boot ROM upgrade. When the target reboots, the PBD installer software will find the needed patch points and install the back door in the inbound packet processing routine. The program communicates with an NSA operator via [[TURBOPANDA]].
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[huawei]] 
+""Tags"" : [[router]] [[huawei]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] [[FOUO]] 
-""Related items"" : [[TURBOPANDA Insertion Tool]] 
-""Related items (Parents)"" : 
+""Related items"" : [[TURBOPANDA]] 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : active
 ""Links"" : 
@@ -2741,6 +3596,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/|washingtonpost.com | NSA uses Google cookies to pinpoint targets for hacking]
+=== HAVOK ===
+""Short Description"" : Real-time website cloning technique allowing on-the-fly alterations. Seems to have replaced [[TANNER]].
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[TANNER]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === HAWKEYE ===
 ""Short Description"" : one of the world’s largest databases, and the firm’s 312 terabyte HAWKEYE database, containing every domestic telephone communication from 2001.
 ""Category"" : program
@@ -2790,7 +3659,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[huawei]] 
+""Tags"" : [[router]] [[huawei]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[TAO]] [[TURBOPANDA]] [[HAMMERMILL]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -2887,6 +3756,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.theatlantic.com/technology/archive/2013/08/an-educated-guess-about-how-the-nsa-is-structured/278697/|theatlantic.com - An Educated Guess About How the NSA Is Structured]
+=== HOMEPORTAL ===
+""Short Description"" : A central hub for all JTRIG [[CERBERUS]] tools
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === HOMINGPIGEON ===
 ""Short Description"" : spotted on the Glenn Greenwald's No Place To Hide document.
 ""Category"" : program
@@ -2907,10 +3790,10 @@
 ""Alias"" : [[CM]] 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[usb]] 
+""Tags"" : [[usb]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : [[FIREWALK]] 
 ""Status"" : unknown
 ""Links"" : 
@@ -2932,6 +3815,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/12/nsa-catalog-appelbaum.pdf||cryptome.org - NSA's catalog]
+=== HUSK ===
+""Short Description"" : Secure one-to-one web based dead-drop messaging platform
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== ICE ===
+""Short Description"" : is an advanced IP havesting technique
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === ICREAST ===
 ""Short Description"" : [[COMINT]] [[NOFORN]] program collecting metadata from cellular users spotted on the Glenn Greenwald's No Place To Hide document.
 ""Category"" : program
@@ -2977,6 +3888,20 @@
 * [http://www.telegraph.co.uk/technology/internet/9090617/Phone-and-email-records-to-be-stored-in-new-spy-plan.html|The Telegraph - Phone and email records to be stored in new spy plan]
 * [https://en.wikipedia.org/wiki/Interception_Modernisation_Programme|Wikipedia - Interception Modernisation Program]
 * [https://nsa.imirhil.fr/documents/csec-br-spy.pdf|nsa.imirhil.fr - csec-br-spy]
+=== IMPERIALBARGE ===
+""Short Description"" : For connecting two target phone together in a call
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[phone]] [[gsm]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === INCENSER ===
 ""Short Description"" : like [[MUSCULAR]], a subprogram of [[WINDSTOP]] who collected over 14 billion records in the same period.
 ""Category"" : program
@@ -3025,6 +3950,20 @@
 ""Links"" : 
 * [http://nsa.gov1.info/dni/| nsa.gov1.info/dni/ - INDRA / FORNSAT]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== INSPECTOR ===
+""Short Description"" : Tool for monitoring domain information and site avaibility.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === INTELINK ===
 ""Short Description"" : The IntelLINK intelligence network links information in the various classified databases of the US intelligence agencies (e.g. FBI, CIA, DEA, NSA, USSS, NRO) to facilitate communication and the sharing of documents and other resources.
 ""Category"" : program
@@ -3093,7 +4032,7 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[bios]] 
+""Tags"" : [[bios]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : [[WAGONBED]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -3164,6 +4103,48 @@
 ""Links"" : 
 * [http://nsa.gov1.info/dni/ | nsa.gov1.info/dni/]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== JAZZFUSION ===
+""Short Description"" : [[BOMBAYROLL]] replacement which will also incorporate new collectors - Primary domain for dedicated connections split into 3 sub-systems
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[BOMBAYROLL]] 
+""Related items (Parents)"" : [[SPICEISLAND]] 
+""Related items (Children)"" : [[COUNTRYFILE]] [[TECHNOVIKING]] 
+""Status"" : unknow
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== JAZZFUSION+ ===
+""Short Description"" : A sub-system of [[JAZZFUSION]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[JAZZFUSION]] 
+""Related items (Parents)"" : [[JTRIG]] [[JAZZFUSION]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== JEDI ===
+""Short Description"" : [[JTRIG]] will shortly be rolling out a [[JEDI]] pod to everydesk of every member of an Intelligence Production Team. The challenge is to scale up to over 1,200 users whilist remaining agile, efficent and responsive to customer needs.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[JEDI]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === JEEPFLEA ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 33 / 200 pages)
 ""Category"" : program
@@ -3184,7 +4165,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[cisco]] [[router]] 
+""Tags"" : [[cisco]] [[router]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[BANANAGLEE]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -3194,6 +4175,20 @@
 * [https://www.schneier.com/blog/archives/2014/01/jetplow_nsa_exp.html|schneier.com - JETPLOW: NSA Exploit of the Day]
 * [http://leaksource.files.wordpress.com/2013/12/nsa-ant-jetplow.jpg| leaksource.files.wordpress.com - Slide on JETPLOW]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== JILES ===
+""Short Description"" : is a [[JTRIG]] bespoke web browser
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[browser]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === JTRIG ===
 ""Short Description"" : A program for discrediting a target. The target is invited to go to a certain URL. Then, JTRIG has the ability to change some things. For example, JTRIG can change the photo on a social networking service. JTRIG emails/text the colleagues, neighbours, friends of the target.
 ""Category"" : program
@@ -3208,6 +4203,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the book of Glenn Greenwald "No Place to Hide"]
+=== JTRIGRADIANTSPLENDOUR ===
+""Short Description"" : is a "Data Diode" connecting the [[CERBERUS]] network with GCNET.
+""Category"" : program
+""Alias"" : [[JTRIG RADIANT SPLENDOUR]] 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === JUGGERNAUT ===
 ""Short Description"" : Picks up all signals from mobile networks. The NSA's signal-processing system for ingesting telephony information, including SS7 signaling - a technical term for the method by which cell-phone networks communicate with each other.
 ""Category"" : program
@@ -3230,7 +4239,7 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[tao]] [[ant]] [[integrated circuit]] 
 ""Compartments"" : 
 ""Related items"" : [[MAESTRO II]] [[TRINITY]] [[SPARROW II]] [[TAO]] 
 ""Related items (Parents)"" : 
@@ -3341,6 +4350,20 @@
 ""Links"" : 
 * [http://nsa.gov1.info/dni/ | nsa.gov1.info/dni/]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== LANDINGPARTY ===
+""Short Description"" : Tool for auditing dissemination of [[VIKINGPILLAGE]] data.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[VIKINGPILLAGE]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === LANDSHARK ===
 ""Short Description"" : 
 ""Category"" : program
@@ -3487,6 +4510,20 @@
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
+=== LONGSHOT ===
+""Short Description"" : File-upload and sharing website
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === LOPERS ===
 ""Short Description"" : [[LOPERS]] is a software application for Public Switched Telephone Networks.
 ""Category"" : program
@@ -3509,7 +4546,7 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[tao]] [[ant]] [[microphone]] 
 ""Compartments"" : [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[ANGRYNEIGHBOR]] [[VARGANT]] [[CTX4000]] [[PHOTOANGLO]] [[DROPMIRE]] 
 ""Related items (Parents)"" : [[ANGRYNEIGHBOR]] 
@@ -3519,6 +4556,20 @@
 * [https://www.schneier.com/blog/archives/2014/01/loudauto_nsa_ex.html|schneier.com - NSA Exploit of the Day]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [https://nsa.imirhil.fr/documents/20131230-appelbaum-nsa_ant_catalog.pdf|nsa.imirhil.fr - appelbaum-nsa_ant_catalog]
+=== LUMP ===
+""Short Description"" : A system that finds the avatar name from a SecondLife AgentlD
+""Category"" : program
+""Alias"" : 
+""Family"" : target
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[second life]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === LUTEUSICARUS ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 / 200 pages) pages : 29 and 33. United Kingdom and USA
 ""Category"" : program
@@ -3554,7 +4605,7 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[tao]] [[ant]] [[integrated circuit]] 
 ""Compartments"" : 
 ""Related items"" : [[JUNIORMINT]] [[TRINITY]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -3760,6 +4811,34 @@
 * [https://www.documentcloud.org/documents/807030-ambassade.html#document/p1|docs by lemonde.fr]
 * [https://www.schneier.com/blog/archives/2013/10/code_names_for.html|schneier.com - Code Names for NSA Exploit Tools]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== MINIATUREHERO ===
+""Short Description"" : Active skype capability. Provision of real time call records (SkypeOut and SkypetoSkype) and bidirectional instant messaging. Also contact lists.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== MIRAGE ===
+""Short Description"" : spotted on the JTRIG's document, page 8.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === MIRROR ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 / 200 pages)
 ""Category"" : program
@@ -3791,6 +4870,20 @@
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [https://mailman.stanford.edu/pipermail/liberationtech/2013-October/011741.html|stanford.edu - 49-page analysis of Tor is superficial - Andy Isaacson]
 * [http://freehaven.net/anonbib/#congestion-longpaths|freehaven.net - A practical congestion attack on Tor using long paths - Usenix Security 2009 paper]
+=== MOBILEHOOVER ===
+""Short Description"" : is a tool to extract data from field forensics' reports created by Celldek, Cellebrite, XRY, Snoopy and USIM detective. These reports are transposed into a Newpin XML format to upload to [[NEWPIN]]
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[NEWPIN]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === MOCCASIN ===
 ""Short Description"" : a version of [[COTTONMOUTH]] permanently attached to a USB keyboard.
 ""Category"" : attack vector
@@ -3805,16 +4898,30 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== MOLTEN-MAGMA ===
+""Short Description"" : CGI HTTP Proxy with ability to log all traffic and perform HTTPS Man in the Middle
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[mitm]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === MONKEYCALENDAR ===
 ""Short Description"" : software implant for GSM subscriber identify module (SIM) cards. This implant pulls individual user's calls and geolocation information form a target handset and exfiltrates it to a user-defined phone number via SMS.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[geolocation]] [[phone]] [[malware]] 
+""Tags"" : [[gsm]] [[geolocation]] [[phone]] [[malware]] [[tao]] [[ant]] 
 ""Compartments"" : [[TOP SECRET]] [[COMINT]] 
 ""Related items"" : [[GOPHERSET]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -3866,6 +4973,20 @@
 ""Links"" : 
 * [http://nsa.gov1.info/dni/|nsa.gov1.info/dni/]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== MOUTH ===
+""Short Description"" : Tool for collection for downloading a user's files from Archive.org
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === MSOC ===
 ""Short Description"" : Misawa Cryptologic Operation Center or Misawa Security Operation Center based in Misawa (Japan). Base ruled by the air force intelligence service
 ""Category"" : compartment
@@ -3983,6 +5104,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== MUSTANG ===
+""Short Description"" : provide covert access to the locations of GSM cell towers.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[gsm]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === MUTANTBROTH ===
 ""Short Description"" : [[GCHQ]]'s tool for identifying targets from data returned by [[QUANTUM]] products
 ""Category"" : program
@@ -4014,6 +5149,20 @@
 * [https://www.schneier.com/blog/archives/2014/03/mystic_the_nsas.html | MYSTIC: The NSA's Telephone Call Collection Program]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
 * [https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/|Data Pirates of the Caribbean: The NSA Is Recording Every Cell Phone Call in the Bahamas]
+=== NAMEJACKER ===
+""Short Description"" : A web service and admin console for the translation of usernames between network. For use with gateways and other such technologies.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === NASHUA ===
 ""Short Description"" : spotted on the Glenn Greenwald's No Place To Hide document.
 ""Category"" : mission
@@ -4076,10 +5225,10 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[phone]] 
+""Tags"" : [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[TYPHON]] [[CYCLONE]] [[DRTBOX]] [[CANDYGRAM]] [[EBSR]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -4099,6 +5248,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== NEVIS ===
+""Short Description"" : is a tool developed by NTAC to search disk images for signs of possible Encryption products. CMA have further developed this tool to look for signs of Steganography
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[crypto]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== NEWPIN ===
+""Short Description"" : is a database of C2C identifiers obtained from a variety of unique sources, and a suite of tools for exploring this data
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === NEWTONSCRADLE ===
 ""Short Description"" : [[GCHQ]]-run Tor nodes
 ""Category"" : program
@@ -4127,13 +5304,27 @@
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== NIGHTCRAWLER ===
+""Short Description"" : public online group against dodgy websites
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === NIGHTSTAND ===
 ""Short Description"" : An active 802.11 wireless exploitation and injection tool for payload /exploit delivery into otherwise denied target space. NIGHTSTAND is typically used in operations where wired access to the target is not possible. Standalone tool currently running on an x86 laptop loaded with Linux Fedora Core 3. Exploitable targets include Win2k, WinXP, WinXPSP1, WinXPSP2 running internet explorer versions 5.0-6.0. NIGHTSTAND packet injection can target one client or multiple targets on a wireless network. Attack is undetectable by the user. Use of external amplifiers and antennas in both experimental operational scenarios have resulted in successful NIGHTSTAND attacks from as far away as eight miles under ideal environmental conditions. Presumably, the NSA can use this "injection tool" in all the same ways it uses [[QUANTUM]]. For example, it can redirect users to [[FOXACID]] servers in order to attack their computers.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : network
 ""Agency"" : [[NSA]]
-""Tags"" : [[exploit]] [[internet explorer]] [[wifi]] 
+""Tags"" : [[exploit]] [[internet explorer]] [[wifi]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] [[FOUO]] 
 ""Related items"" : [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -4150,10 +5341,10 @@
 ""Alias"" : 
 ""Family"" : process
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[VIEWPLATE]] [[TAO]] [[VAGRANT]] 
-""Related items (Parents)"" : [[ANGRYNEIGHBOR]] 
+""Related items (Parents)"" : [[ANGRYNEIGHBOR]] [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : inactive
 ""Links"" : 
@@ -4218,6 +5409,20 @@
 * [http://www.washingtonpost.com/investigations/us-surveillance-architecture-includes-collection-of-revealing-internet-phone-metadata/2013/06/15/e9bf004a-d511-11e2-b05f-3ea3f0e7bb5a_story_1.html|washingtonpost.com - U.S. surveillance architecture includes collection of revealing Internet, phone metadata]
 * [https://en.wikipedia.org/wiki/PRISM|en.wikipedia.org - Slide of PRISM collection dataflow]
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== NUTALLERGY ===
+""Short Description"" : [[JTRIG]] tor web browser - Sandbox IE replacement and [[FRUITBOWL]] sub-system
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[tor]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[FRUITBOWL]] 
+""Related items (Parents)"" : [[FRUITBOWL]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === NYMROD ===
 ""Short Description"" : NYMROD name-matching system, can accept queries consisting of personnal names, perform a "fuzzy" match of the input name to one or more sets of stored names, and return a list of potential matches for presentation to the user.
 ""Category"" : program
@@ -4486,7 +5691,7 @@
 ""Compartments"" : 
 ""Related items"" : [[ALPHA]] [[ECHO]] [[INDIA]] [[UNIFORM]] 
 ""Related items (Parents)"" : 
-""Related items (Children)"" : 
+""Related items (Children)"" : [[BULLRUN]] [[TAO]] [[UPSTREAM]] 
 ""Status"" : active
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
@@ -4533,6 +5738,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== OUTWARD ===
+""Short Description"" : is a collection of DNS lookup, WHOIS lookup and other networks tools
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[dns]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === PACKAGEGOODS ===
 ""Short Description"" : tracks the “traceroutes” through which data flows around the Internet. Has access to 13 covered servers in unwitting data centers around the globe. The data centers are located in (non exhaustive) Germany, Poland, Denmark, South Africa and Taiwan as well as Russia, China and Singapore.
 ""Category"" : program
@@ -4617,7 +5836,7 @@
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
-* [http://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-birds-personal-data|Angry  Birds and 'leaky' phone apps targeted by NSA and GCHQ for user data]
+* [http://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-birds-personal-data|Angry Birds and 'leaky' phone apps targeted by NSA and GCHQ for user data]
 === PARCHDUSK ===
 ""Short Description"" : PARCHDUSK is a spying program used in 2007 and 2008 in Iraq and Afghanistan. Productions Operation of NSA's TAO division.
 ""Category"" : program
@@ -4723,7 +5942,7 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[cw]] 
+""Tags"" : [[cw]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[ANGRYNEIGHBOR]] [[VAGRANT]] [[DROPMIRE]] [[LOADAUTO]] [[NIGHTWATCH]] [[VIEWPLATE]] 
 ""Related items (Parents)"" : [[ANGRYNEIGHBOR]] 
@@ -4732,6 +5951,20 @@
 ""Links"" : 
 * [https://www.schneier.com/blog/archives/2014/01/photoanglo_nsa.html | schneier.com - PHOTOANGLO: NSA Exploit of the Day]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== PHOTONTORPEDO ===
+""Short Description"" : A technique to actively grab the IP address of a MSN messenger user.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[chat]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === PICARESQUE ===
 ""Short Description"" : An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents.
 ""Category"" : compartment
@@ -4752,7 +5985,7 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[phone]] 
+""Tags"" : [[gsm]] [[phone]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : 
 ""Related items (Parents)"" : 
@@ -4791,6 +6024,34 @@
 * [https://en.wikipedia.org/wiki/Pinwale|PINWALE en.wikipedia.org]
 * [https://en.wikipedia.org/wiki/File:Prism-slide-7.jpg|en.wikipedia.org - Slide of PRISM collection dataflow ]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== PISTRIX ===
+""Short Description"" : image hosting and sharing website
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== PITBULL ===
+""Short Description"" : Capability, under development, enabling large scale delivery of a tailored message to users of instant Messaging services.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[chat]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === PITCHFORD ===
 ""Short Description"" : An undetermined, highly confidential compartiment mentioned in the [[BULLRUN]] documents.
 ""Category"" : compartment
@@ -4805,6 +6066,48 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/09/nsa-bullrun-2-16-guardian-13-0905.pdf|cryptome.org - guardian]
+=== PODRACE ===
+""Short Description"" : [[JTRIG]]'s MS update farm
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== POISONARROW ===
+""Short Description"" : Safe malware download capability
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== POISONEDDAGGER ===
+""Short Description"" : Effects against Gigatribe, built by ICTR, deployed by [[JTRIG]]
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === POKOMOKE ===
 ""Short Description"" : Brazil's United Nations Mission in New-York
 ""Category"" : mission
@@ -4862,6 +6165,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== PREDATORSFACE ===
+""Short Description"" : Targeted Denial of Service against Web Servers.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === PREFER ===
 ""Short Description"" : The NSA's program to perform automatic analysis on the text-message data and metadata.
 ""Category"" : program
@@ -4891,6 +6208,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/ | How the NSA Plans to Infect ‘Millions’ of Computers with Malware - theguardian.com]
+=== PRIMATE ===
+""Short Description"" : is a [[JTRIG]] tool that aims to provide the capability to identify trends in seized computer media data and metadata
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === PRINTAURA ===
 ""Short Description"" : part of the [[PRISM]] program. Software which would automatically gather a list of tasked PRISM selectors every weeks to provide to the FBI or CIA. PRINTAURA volunteered to gather the detailed data related to each selector from multiple locations and assemble it in usable form.
 ""Category"" : program
@@ -5318,6 +6649,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== QUINCY ===
+""Short Description"" : is an enterprise level suite of tools for the exploitation of seized media
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === RADON ===
 ""Short Description"" : Bi-directional host tap that can inject Ethernet packets onto the same targets. Allows bi-directional exploitation of Denies networks using standard on-net tools.
 ""Category"" : attack vector
@@ -5341,7 +6686,7 @@
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[rf]] [[video]] 
+""Tags"" : [[rf]] [[video]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[NIGHTWATCH]] [[GOTHAM]] [[VIEWPLATE]] 
 ""Related items (Parents)"" : [[TAWDRYYARD]] 
@@ -5394,6 +6739,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.spiegel.de/international/world/secret-nsa-documents-show-how-the-us-spies-on-europe-and-the-un-a-918625.html| Der Spiegel - Codename 'Apalachee': How America Spies on Europe and the UN]
+=== RANA ===
+""Short Description"" : is a system developed by ICTR-CISA providing CAPTCHA-solving via a web service on [[CERBERUS]], this is intended for use by [[BUMPERCAR+]] and possibly in future by SHORTFALL but anyone is welcome to use it.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === RC-10 ===
 ""Short Description"" : new name of the [[SHARKFIN]] program, high-capacity/high-speed vacuum cleaner, sweeps up all-source communications intelligence (COMINT) from a variety of communication methods and systems.
 ""Category"" : program
@@ -5408,6 +6767,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== REAPER ===
+""Short Description"" : [[CERBERUS]] -> [[GCNET]] Import gateway Interface System
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === REMATION-II ===
 ""Short Description"" : Joint NSA/GCHQ anti-Tor Workshop ca 2012
 ""Category"" : attack vector
@@ -5436,6 +6809,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== RESERVOIR ===
+""Short Description"" : Facebook application allowing collection of various information.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[facebook]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === RETRO ===
 ""Short Description"" : 
 ""Category"" : program
@@ -5535,6 +6922,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== ROLLINGTHUNDER ===
+""Short Description"" : Distributed denial of service using P2P, built by [[ICTR]], deployed by [[JTRIG]]
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[p2p]] [[ddos]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === RONIN ===
 ""Short Description"" : Database of tor events
 ""Category"" : program
@@ -5646,13 +7047,27 @@
 ""Status"" : active
 ""Links"" : 
 * [http://nsa.gov1.info/dni/ | nsa.gov1.info/dni/]
+=== SCARLETEMPEROR ===
+""Short Description"" : Targeted denial of service against targets phones via call bombing.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[phone]] [[gsm]] [[ddos]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SCHOOLMONTANA ===
 ""Short Description"" : SCHOOLMONTANA provides persistence for DNT implants. The DNT implant will survive an upgrade or replacement of the operating system -- including physically replacing the router's compact flash card. Currently, the intended DNT Implant to persist is [[VALIDATOR]], which must be run as a user process on the target operating system. The vector of attack is the modification of the target's BIOS. The modification will add the necessary software to the BIOS and modify its software to execute the SCHOOLMONTANA implant at the end of its native System Management Mode (SMM) handler.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[juniper]] [[bios]] [[dnt]] 
+""Tags"" : [[router]] [[juniper]] [[bios]] [[dnt]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[SIERRAMONTANA]] [[STUCCOMONTANA]] [[VALIDATOR]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -5676,6 +7091,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://en.wikipedia.org/wiki/File:Prism-slide-7.jpg|en.wikipedia.org - Slide of PRISM collection dataflow ]
+=== SCRAPHEAPCHALLENGE ===
+""Short Description"" : perfect spoofing of emails from Blackberry targets
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[blackberry]] [[email]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SCREAMINGEAGLE ===
+""Short Description"" : is a tool that processes kismet data into geolocation information
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[kismet]] [[geolocation]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SCREAMINGHARPY ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 / 200 pages)
 ""Category"" : program
@@ -5748,6 +7191,20 @@
 * [https://www.aclu.org/files/natsec/nsa/20140130/%28TS%29%20NSA%20Quantum%20Tasking%20Techniques%20for%20the%20R&T%20Analyst.pdf|aclu.org - NSA Quantum Tasking Techniques for the R&T Analyst]
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html| To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
 * [http://www.theregister.co.uk/Print/2013/12/31/nsa_weapons_catalogue_promises_pwnage_at_the_speed_of_light/| theregister.co.uk]
+=== SEBACIUM ===
+""Short Description"" : An ICTR developed to identify P2P file sharing activity of intelligence value. Logs are accessible via [[DIRTYRATS]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[DIRTYRATS]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SECONDDATE ===
 ""Short Description"" : 
 ""Category"" : program
@@ -5790,6 +7247,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.nsa.gov/public_info/_files/cryptologs/cryptolog_136.pdf| nsa.gov - cryptolog]
+=== SEPENTSTONGUE ===
+""Short Description"" : for fax message broadcasting to multiple numbers.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[fax]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SERUM ===
 ""Short Description"" : Spotted on [[IRATEMONK]] diagram
 ""Category"" : program
@@ -5818,6 +7289,34 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== SFL ===
+""Short Description"" : The SIGINT Forensics Laboratory was developed within NSA. It has been adapted by JTRIG as its email extraction and first-pass analysis of seized media solution
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[email]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SHADOWCAT ===
+""Short Description"" : End-to-End encrypted access to a VPS over SSH using the TOR network.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[tor]] [[ssh]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SHAREDTAFFY ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 33 / 200 pages)
 ""Category"" : program
@@ -5966,7 +7465,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[juniper]] [[bios]] [[dnt]] 
+""Tags"" : [[router]] [[juniper]] [[bios]] [[dnt]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[SCHOOLMONTANA]] [[STUCCOMONTANA]] [[VALIDATOR]] [[TAO]] [[FOXACID]] 
 ""Related items (Parents)"" : [[STUCCOMONTANA]] 
@@ -5976,6 +7475,76 @@
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [https://www.schneier.com/blog/archives/2014/01/sierramontana_n.html|schneier.com - SIERRAMONTANA: NSA Exploit of the Day]
 * [http://leaksource.files.wordpress.com/2013/12/nsa-ant-sierramontana.jpg|leaksource.wordpress.com - SIERRAMONTANA TAO's catalog page]
+=== SILENTMOVIE ===
+""Short Description"" : targeted denial of service against SSH services
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[ssh]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SILVERBLADE ===
+""Short Description"" : Reporting of extremist material on DAILYMOTION.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[video]] [[dailymotion]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SILVERFOX ===
+""Short Description"" : List provided to industry of live extremist material files hosted on FFUs
+""Category"" : program
+""Alias"" : 
+""Family"" : target
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SILVERLORD ===
+""Short Description"" : Disruption of video-based websites hosting extremist content through concerted target discovery and content removal
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[video]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SILVERSPECTER ===
+""Short Description"" : Allows batch Nmap scanning over TOR
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[tor]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SILVERZEPHYR ===
 ""Short Description"" : Subprogram of [[OAKSTAR]], Network access point through [[STEELKNIGHT]] partner: targeting South, Central and Latin America DNR (metadata, voice, fax), DNI (content, metadata)
 ""Category"" : program
@@ -5992,6 +7561,20 @@
 * [https://en.wikipedia.org/wiki/OAKSTAR| en.wikipedia.org - OAKSTAR]
 * [http://en.wikipedia.org/wiki/File:SilverZephyr.jpg| en.wikipedia.org - SilverZephyr.jpg]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== SKYSCRAPER ===
+""Short Description"" : Production and dissemination of multimedia via the web in the course of information operations.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SKYWRITER ===
 ""Short Description"" : 
 ""Category"" : program
@@ -6006,6 +7589,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.intrepidreport.com/archives/8588|intrepidreport.com - Senate delivers fatal end-of-term blow to Constitution]
+=== SLAMMER ===
+""Short Description"" : is a data index repository that provides analysts with the ability to query data collected from the internet from various JTRIG sources, such as [[EARTHLING]] or [[HACIENDA]], web pages saved by analysts etc.
+""Category"" : program
+""Alias"" : 
+""Family"" : database
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SLICKERVICAR ===
 ""Short Description"" : A tool known to be used somewhere in the process of uploading malicious HD firmware
 ""Category"" : attack vector
@@ -6020,6 +7617,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== SLIPSTREAM ===
+""Short Description"" : Ability to inflate page views on websites
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SMOKEYSINK ===
 ""Short Description"" : spotted on [[QUANTUMTHEORY]]'s presentation.
 ""Category"" : program
@@ -6063,6 +7674,34 @@
 ""Links"" : 
 * [http://nsa.gov1.info/dni/ | nsa.gov1.info/dni/]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf|Documents from the Glenn Greenwald's book "No Place to Hide"]
+=== SNOOPY ===
+""Short Description"" : is a tool to extract mobile phone data from a copy of the phone's memory (usually supplied as an image file extracted through FTK)
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[phone]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== SODAWATER ===
+""Short Description"" : A tool for regularly downloading gmail messages and fowarding them onto [[CERBERUS]] mailboxes
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[email]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SOLIS ===
 ""Short Description"" : SIGINT On-Line Information System
 ""Category"" : program
@@ -6086,7 +7725,7 @@
 ""Tags"" : [[bahamas]] [[mexico]] [[philippines]] [[kenya]] [[afghanistan]] 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[MYSTIC]] 
 ""Related items (Children)"" : 
 ""Status"" : active
 ""Links"" : 
@@ -6099,7 +7738,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[wifi]] [[malware]] [[windows]] [[os]] 
+""Tags"" : [[wifi]] [[malware]] [[windows]] [[os]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : [[OLYMPUS]] [[VALIDATOR]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -6117,7 +7756,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[juniper]] [[bios]] 
+""Tags"" : [[router]] [[juniper]] [[bios]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : [[BANANAGLEE]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -6156,13 +7795,27 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== SPACEROCKET ===
+""Short Description"" : is a programme covering insertion of media into target networks. [[CRINKLECUT]] is a tool developped by ICTR-CISA to enable JTRIG track images as part of SPACEROCKET.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CRINKLECUT]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SPARROW-II ===
 ""Short Description"" : An embedded computer system running [[BLINDDATE]] tools. SPARROW-II is a fully functional WLAN collection system with integrated Mini PCI slots for added functionality such as GPS and multiple Wireless Network Interface Cards. Application [[SW]]: [[BLINDDATE]]
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : [[wifi]] [[gps]] [[pci]] 
+""Tags"" : [[wifi]] [[gps]] [[pci]] [[tao]] [[ant]] 
 ""Compartments"" : [[FOUO]] 
 ""Related items"" : [[TRINITY]] [[JUNIORMINT]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -6186,6 +7839,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== SPICEISLAND ===
+""Short Description"" : JTRIG's new infrastructure. [[FORESTWARRIOR]] [[FRUITBOWL]] [[JAZZFUSION]] and other JTRIG systems will form part of the SPICE ISLAND infrastructure.
+""Category"" : program
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : [[FORESTWARRIOR]] [[FRUITBOWL]] [[JAZZFUSION]] 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SPINNERET ===
 ""Short Description"" : Metadata collection's program
 ""Category"" : program
@@ -6274,6 +7941,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2013/12/nsa-cable-spy-types.pdf||SSO - The cryptologic provider of Intelligence from Global High-Capacity Telecommunications Systems]
+=== STEALTHMOOSE ===
+""Short Description"" : is a tool that disrupt target's windows machine. Logs of how long and when the effect is active
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[windows]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === STEELFLAUTA ===
 ""Short Description"" : [[SSO]] Corporate/ [[TAO]] (Tailored Access Operations) Shaping
 ""Category"" : program
@@ -6397,7 +8078,7 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[router]] [[juniper]] [[bios]] 
+""Tags"" : [[router]] [[juniper]] [[bios]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : 
 ""Related items (Parents)"" : [[TAO]] 
@@ -6437,13 +8118,27 @@
 ""Status"" : active
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
+=== SUNBLOCK ===
+""Short Description"" : Ability to deny functionality to send/receive email or view material online
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[email]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SURLYSPAWN ===
 ""Short Description"" : SURLYSPAWN has the capability to gather keystrokes without requiring any software running on the targeted system. It also only requires that the targeted system be touched once. The retro-reflector is compatible with both USB ans PS/2 keyboards. The simplicity of the design allows the form factor to be tailored for specific operational requirements.
 ""Category"" : program
 ""Alias"" : 
 ""Family"" : collect
 ""Agency"" : [[NSA]]
-""Tags"" : [[usb]] 
+""Tags"" : [[usb]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : [[ANGRYNEIGHBOR]] [[TAO]] 
 ""Related items (Parents)"" : [[ANGRYNEIGHBOR]] 
@@ -6512,13 +8207,27 @@
 ""Links"" : 
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html| media.ccc.de - To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
 * [http://cryptome.org/2013/12/nsa-catalog-appelbaum.pdf| cryptome.org - NSA's catalog]
+=== SWAMPDONKEY ===
+""Short Description"" : is a tool that will silently locate all predefined types of file and encrypt them on a targets machine
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === SWAP ===
 ""Short Description"" : SWAP provides software application persistence by exploiting the motherboard BIOS and the hard drive's Host Protected Area to gain periodic execution before the Operating System loads. This technique supports single or multi-processor systems running Windows, Linux, FreeBSD, or Solaris with the following file systems: FAT32, NTFS, EXT2, EXT3, or UFS1.0. Through remote access or [[INTERDICTION]], [[ARKSTREAM]] is used to reflash the BIOS and TWISTEDKILT to write the Host Protected Area on the hard drive on a target machine in order to implant SWAP and its payload (the implant installer). Once implanted, SWAP's frequency of execution (dropping the playload) is configurable and will occur when the target machine powers on.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[bios]] [[windows]] [[os]] 
+""Tags"" : [[bios]] [[windows]] [[os]] [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL]] 
 ""Related items"" : [[ARKSTREAM]] [[TWISTEDKILT]] [[TUNINGFORK]] [[INTERDICTION]] 
 ""Related items (Parents)"" : 
@@ -6528,6 +8237,20 @@
 * [https://www.schneier.com/blog/archives/2014/02/swap_nsa_exploi.html|SWAP: NSA Exploit of the Day]
 * [http://www.prepperpodcast.com/phone-calls-listening/20131231025312_9-nsa-swap/|prepperpodcast.com - It’s not just your phone calls – it’s YOU they are listening to]
 * [http://cryptome.org/2013/12/nsa-catalog-appelbaum.pdf|cryptome.org - NSA's catalog]
+=== SYLVESTER ===
+""Short Description"" : Framework for automated interaction / alias management on social networks
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[social network]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TALENTKEYHOLE ===
 ""Short Description"" : Control system for space-based collection platforms. This control system is for products of overhead collection systems, such as satellites and reconnaissance aircraft, and contains compartments, which are identified by a classified codeword. The original TALENT compartment was created in the mid-1950s for the U-2. In 1960, it was broadened to cover all national aerial reconnaissance and the KEYHOLE compartment was created for satellite intelligence.
 ""Category"" : program
@@ -6542,6 +8265,34 @@
 ""Status"" : old?
 ""Links"" : 
 * [http://electrospaces.blogspot.fr/2013/09/the-us-classification-system.html|electrospaces - Top Level Telecommunications]
+=== TANGLEFOOT ===
+""Short Description"" : is a bulk search tool which queries a set of online ressources. This allows analysts to quickly check the online presence of a target
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== TANNER ===
+""Short Description"" : A technical programme allowing operators to log on to a [[JTRIG]] website to grab OP adresses of Internet Cafe's. Replaced by [[HAVOK]].
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[HAVOK]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TAO ===
 ""Short Description"" : The NSA's TAO (Tailored Access Operations) hacking unit is considered to be the intelligence agency's top secret weapon. It maintains its own covert network, infiltrates computers around the world and even intercepts shipping deliveries to plant back doors in electronics ordered by those it is targeting. [...] During the middle part of the last decade, the special unit succeeded in gaining access to 258 targets in 89 countries -- nearly everywhere in the world. In 2010, it conducted 279 operations worldwide.
 ""Category"" : compartment
@@ -6592,10 +8343,10 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[tao]] [[ant]] 
 ""Compartments"" : [[TS]] [[SI]] [[REL TO USA]] [[FVEY]] 
 ""Related items"" : 
-""Related items (Parents)"" : [[ANGRYNEIGHBOUR]] 
+""Related items (Parents)"" : [[ANGRYNEIGHBOUR]] [[TAO]] 
 ""Related items (Children)"" : [[RAGEMASTER]] 
 ""Status"" : End processing still in development
 ""Links"" : 
@@ -6604,6 +8355,20 @@
 * [http://media.ccc.de/browse/congress/2013/30C3_-_5713_-_en_-_saal_2_-_201312301130_-_to_protect_and_infect_part_2_-_jacob.html|media.ccc.de -To Protect And Infect Part 2 The militarization of the Internet by Jacob Appelbaum.]
 * [http://cryptome.org/2013/12/nsa-catalog-appelbaum.pdf|cryptome.org - NSA's catalog]
 * [https://commons.wikimedia.org/wiki/File:NSA_TAWDRYYARD.jpg|wikimedia.org - NSA TAWDRYYARD]
+=== TECHNOVIKING ===
+""Short Description"" : A sub-system of [[JAZZFUSION]]
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[JAZZFUSION]] 
+""Related items (Parents)"" : [[JTRIG]] [[JAZZFUSION]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TEMPORA ===
 ""Short Description"" : Clandestine security electronic surveillance program trialled in 2008, established in 2011 and operated by the [[GCHQ]]. Data is extracted from over 200 fibre-optic cables and processed; full data is preserved for three days while metadata is kept for 30 days. No distinction is made in the gathering of the data between innocent people or targeted suspects. Includes recordings of telephone calls, the content of email messages, Facebook entries and the personal internet history of users.
 ""Category"" : program
@@ -6706,6 +8471,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== TOPHAT ===
+""Short Description"" : A version of the [[MUSTANG]] and [[DANCINGBEAR]] techniques that allow us to pull back cell tower and wifi locations targeted against particular areas
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[wifi]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[DANCINGBEAR]] [[MUSTANG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknown
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TOPI ===
 ""Short Description"" : spotted on the Spiegel documents (2014 - 06 - 18 33 / 200 pages)
 ""Category"" : program
@@ -6720,6 +8499,20 @@
 ""Status"" : active
 ""Links"" : 
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+=== TORNADOALLEY ===
+""Short Description"" : is a delivery method (Excel Spreadsheet) that can silently extract and run an executable on a target's machine.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : software
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[windows]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TORUS ===
 ""Short Description"" : spotted on the Glenn Greenwald's No Place To Hide document.
 ""Category"" : program
@@ -6735,15 +8528,15 @@
 ""Links"" : 
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
 === TOTECHASER ===
-""Short Description"" : Software-based malware for Thuraya 2520 satellite-cellular handsets running Windows CE. Designed to exfiltrate GPS and GSM geolocation data, as well as the call log and contact list, and other data via covert SMS messages. SMS messages are also the means by which the attacker controls the phone. Implementation requires modifying the phone itself, not yet deployed as of Oct 2008.
+""Short Description"" : Software-based malware for Thuraya 2520 satellite-cellular handsets running Windows CE. Designed to exfiltrate GPS and GSM geolocation data, as well as the call log and contact list, and other data via covert SMS messages. SMS messages are also the means by which the attacker controls the phone. Implementation requires modifying the phone itself, not yet deployed as of Oct 2008. Saw on ANT Catalog.
 ""Category"" : attack vector
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[gps]] [[sms]] [[os]] [[geolocation]] [[phone]] [[windows]] 
+""Tags"" : [[gsm]] [[gps]] [[sms]] [[os]] [[geolocation]] [[phone]] [[windows]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[TOTEGHOSTLY]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -6755,10 +8548,10 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[malware]] [[windows]] [[sms]] [[os]] [[geolocation]] 
+""Tags"" : [[malware]] [[windows]] [[sms]] [[os]] [[geolocation]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[STRAITBIZARRE]] [[CHIMNEYPOOL]] [[FREEFLOW]] [[GENIE]] [[FRIEZERAMP]] [[TOTECHASER]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -6777,6 +8570,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/ | How the NSA Plans to Infect ‘Millions’ of Computers with Malware - theguardian.com]
+=== TRACERFIRE ===
+""Short Description"" : An Office Document that grabs the targets Machine info, files, etc and posts it back to GCHQ.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : inactive
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TRACKERSMURF ===
 ""Short Description"" : GCHQ's targeted tools against individual smartphones, to geolocate the user with high-precision.
 ""Category"" : attack vector
@@ -6843,7 +8650,7 @@
 ""Alias"" : 
 ""Family"" : hardware
 ""Agency"" : [[NSA]]
-""Tags"" : 
+""Tags"" : [[tao]] [[ant]] [[integrated circuit]] 
 ""Compartments"" : 
 ""Related items"" : [[MAESTRO II]] [[FIREWALK]] [[TAO]] 
 ""Related items (Parents)"" : [[TAO]] 
@@ -7039,6 +8846,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://www.schneier.com/blog/archives/2014/01/tawdryyard_nsa.html|schneier.com - tawdryyard_nsa.html|https://www.schneier.com/blog/archives/2014/01/tawdryyard_nsa.html|schneier.com - tawdryyard_nsa.html]
+=== TWILIGHARROW ===
+""Short Description"" : Remote GSM secure covert internet proxy using VPN services
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[gsm]] [[vpn]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === TWISTEDKILT ===
 ""Short Description"" : a hard drive firmware updating program used to install malicious firmware of a victim hard drive
 ""Category"" : attack vector
@@ -7085,6 +8906,20 @@
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
 * [https://firstlook.org/theintercept/article/2014/02/10/the-nsas-secret-role/|theintercept.org - The NSA’s Secret Role in the U.S. Assassination Program]
+=== UNDERPASS ===
+""Short Description"" : Change outcome of online polls (previously known as [[NUBILO]])
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[NUBILO]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === UNIFORM ===
 ""Short Description"" : Exchange designator for Canada’s Communications Security Establishment (CSE).
 ""Category"" : five eyes
@@ -7123,7 +8958,7 @@
 ""Tags"" : 
 ""Compartments"" : 
 ""Related items"" : 
-""Related items (Parents)"" : [[NSA]] 
+""Related items (Parents)"" : [[NSA]] [[OSCAR]] 
 ""Related items (Children)"" : [[FAIRVIEW]] [[BLARNEY]] [[STORMBREW]] [[OAKSTAR]] [[PRISM]] [[XKEYSCORE]] 
 ""Status"" : unknown
 ""Links"" : 
@@ -7177,6 +9012,20 @@
 ""Status"" : inactive
 ""Links"" : 
 * [https://www.aclu.org/sites/default/files/assets/intercept-drones.pdf|Intercept drones]
+=== VIEWER ===
+""Short Description"" : A programme that (hopefully) provides advance tip off of the kidnappers IP address for HMG personnel.
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === VIEWPLATE ===
 ""Short Description"" : Replacement for the [[NIGHTWATCH]] system. If it's the same, it's a specialized system for processing, reconstructing and displaying video signals collected by [[VAGRANT]]. And returned to a [[CTX4000]] or a [[PHOTOANGLO]] system
 ""Category"" : program
@@ -7194,6 +9043,34 @@
 * [https://www.schneier.com/blog/archives/2014/01/nightwatch_nsa.html|schneier.com - NSA Exploit of the Day]
 * [http://leaksource.files.wordpress.com/2013/12/nsa-ant-nightwatch.jpg|leaksource.wordpress.com - TAO Catalog Page with Graphics]
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== VIKINGPILLAGE ===
+""Short Description"" : Distributed network for the automatic collection of encrypted/compressed data from remotely hosted [[JTRIG]] projects
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== VIPERSTONGUE ===
+""Short Description"" : is a tool that will silently Denial of Service on a Satellite Phone or a GSM Phone.
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[gsm]] [[phone]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === WABASH ===
 ""Short Description"" : coverterm givent to the bugging of French embassy in Washington DC
 ""Category"" : mission
@@ -7224,13 +9101,41 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://cryptome.org/2014/01/nsa-codenames.htm|cryptome.org - NSA codenames]
+=== WARPATH ===
+""Short Description"" : Mass delivery of SMS messages to support an information operation campaign
+""Category"" : attack vector
+""Alias"" : 
+""Family"" : network
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] [[gsm]] [[phone]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
+=== WATCHTOWER ===
+""Short Description"" : [[GCNET]] -> [[CERBERUS]] export gateway interface system
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] [[CERBERUS]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === WATERWITCH ===
 ""Short Description"" : Low-power handheld device geolocating target handsets, used in conjunction with [[TYPHON]] or similar systems to provide more precise location information.
 ""Category"" : program
 ""Alias"" : 
 ""Family"" : target
 ""Agency"" : [[NSA]]
-""Tags"" : [[gsm]] [[geolocation]] 
+""Tags"" : [[gsm]] [[geolocation]] [[tao]] [[ant]] 
 ""Compartments"" : [[S]] [[SI]] 
 ""Related items"" : [[TYPHON]] 
 ""Related items (Parents)"" : 
@@ -7382,6 +9287,20 @@
 ""Status"" : unknown
 ""Links"" : 
 * [https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/ | How the NSA Plans to Infect ‘Millions’ of Computers with Malware - theguardian.com]
+=== WINDFARM ===
+""Short Description"" : R&D offsite facility
+""Category"" : compartment
+""Alias"" : 
+""Family"" : process
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : unknow
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === WINDSTOP ===
 ""Short Description"" : collect of data, like [[dni]] and [[dnr]], most volume by [[DS-300]] ([[INCENSER]]) and [[DS-200B]] ([[MUSCULAR]])
 ""Category"" : program
@@ -7432,10 +9351,10 @@
 ""Alias"" : 
 ""Family"" : software
 ""Agency"" : [[NSA]]
-""Tags"" : [[usb]] [[windows]] [[os]] 
+""Tags"" : [[usb]] [[windows]] [[os]] [[tao]] [[ant]] 
 ""Compartments"" : 
 ""Related items"" : [[IRATEMONK]] [[STRAITBIZARRE]] [[SEAGULLFARO]] [[UNITEDRAKE]] [[RETURNSPRING]] 
-""Related items (Parents)"" : 
+""Related items (Parents)"" : [[TAO]] 
 ""Related items (Children)"" : 
 ""Status"" : unknown
 ""Links"" : 
@@ -7485,8 +9404,22 @@
 ""Status"" : unknown
 ""Links"" : 
 * [http://www.theatlantic.com/technology/archive/2013/08/an-educated-guess-about-how-the-nsa-is-structured/278697/|theatlantic.com - An Educated Guess About How the NSA Is Structured]
+=== WURLITZER ===
+""Short Description"" : Distribute a file to multiple file hosting websites
+""Category"" : program
+""Alias"" : 
+""Family"" : collect
+""Agency"" : [[GCHQ]]
+""Tags"" : [[jtrig]] 
+""Compartments"" : 
+""Related items"" : [[JTRIG]] 
+""Related items (Parents)"" : [[JTRIG]] 
+""Related items (Children)"" : 
+""Status"" : active
+""Links"" : 
+* [https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/|Hacking Online Polls and Other Ways British Spies Seek to Control the Internet]
 === XKEYSCORE ===
-""Short Description"" : XKEYSCORE is a formerly secret computer system used by the NSA for searching and analyzing Internet data about foreign nationals across the world. The program is run jointly with other agencies including Australia's [[DSD]], and New Zealand's [[GCSB]]. XKEYSCORE is an NSA data-retrieval system which consists of a series of user interfaces, backend databases, servers and software that selects certain types of metadata that the NSA has already collected using other methods. see all traffic from a given IP address to a specific website
+""Short Description"" : XKEYSCORE is a formerly secret computer system used by the NSA for searching and analyzing Internet data about foreign nationals across the world. The program is run jointly with other agencies including Australia's [[DSD]], and New Zealand's [[GCSB]]. XKEYSCORE is an NSA data-retrieval system which consists of a series of user interfaces, backend databases, servers and software that selects certain types of metadata that the NSA has already collected using other methods. see all traffic from a given IP address to a specific website. A part of the source code was leaked on June 2014. Now, we know that XKEYSCORE can spy on Tor and Tails users. The program class then these users as "extremists".
 ""Category"" : program
 ""Alias"" : [[XKS]] 
 ""Family"" : process
@@ -7504,10 +9437,11 @@
 * [http://www.washingtonpost.com/world/national-security/governments-secret-order-to-verizon-to-be-unveiled-at-senate-hearing/2013/07/31/233fdd3a-f9cf-11e2-a369-d1954abcb7e3_story.htmlWashingtonpost.com - | washingtonpost.com -Phone Records Program Released]
 * [http://theweek.com/article/index/247684/whats-xkeyscore|theweek.com - What's XKEYSCORE?]
 * [http://www.guardian.co.uk/world/2013/jun/27/nsa-online-metadata-collection|guardian.co.uk - NSA online - metadata collection]
-* [http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation|http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation]
+* [http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation|The Guardian - nsa-xkeyscore-program-full-presentation]
 * [http://arstechnica.com/tech-policy/2013/08/nsas-internet-taps-can-find-systems-to-hack-track-vpns-and-word-docs/|arstechnica.com - NSA's Internet Taps Can Find Systems to Hack, Track VPNs and Word Docs]
 * [http://hbpub.vo.llnwd.net/o16/video/olmk/holt/greenwald/NoPlaceToHide-Documents-Uncompressed.pdf| No place to hide, by Glenn Greenwald]
 * [http://cryptome.org/2014/06/nsa-spiegel-snowden-14-0618.pdf|cryptome.org NSA spiegel snowden documents leak on June the 18th 2014]
+* [http://daserste.ndr.de/panorama/xkeyscorerules100.txt|ndr.de Leaked source code about Tor users]
 === YACHTSHOP ===
 ""Short Description"" : Subprogram of [[OAKSTAR]] targeting Worldwide DNI Metadata, Access through [[BLUEANCHOR]] partner, contributor to [[MARINA]].
 ""Category"" : program
